@@ -18,5 +18,3 @@
         <li>Git</li>
     </ol>
 </body>
-
-</html>
